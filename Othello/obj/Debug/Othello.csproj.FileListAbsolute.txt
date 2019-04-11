@@ -1,0 +1,19 @@
+C:\Users\tsuto\Desktop\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\tsuto\Desktop\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\tsuto\Desktop\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\tsuto\Desktop\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\bin\Debug\Othello.exe.config
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.exe
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.pdb
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\bin\Debug\Othello.exe
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\bin\Debug\Othello.pdb
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\tsuto\Desktop\programming\Othello v1.0\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
